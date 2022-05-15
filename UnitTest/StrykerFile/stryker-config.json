@@ -1,0 +1,6 @@
+﻿{
+  "stryker-config": {
+    "solution": "../StrykerDemo.sln",
+    "project": "StrykerDemo.csproj"
+  }
+}

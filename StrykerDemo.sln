@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrykerDemo", "StrykerDemo\StrykerDemo.csproj", "{6E481BCC-271E-4169-8517-3232492A1B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{6A690FFB-1709-41A8-9DBF-F528C163B18C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E481BCC-271E-4169-8517-3232492A1B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E481BCC-271E-4169-8517-3232492A1B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E481BCC-271E-4169-8517-3232492A1B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E481BCC-271E-4169-8517-3232492A1B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A690FFB-1709-41A8-9DBF-F528C163B18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A690FFB-1709-41A8-9DBF-F528C163B18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A690FFB-1709-41A8-9DBF-F528C163B18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A690FFB-1709-41A8-9DBF-F528C163B18C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB5C0A91-BDA3-4E13-977E-E0F647B6E8E4}
+	EndGlobalSection
+EndGlobal
