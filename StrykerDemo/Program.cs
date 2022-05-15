@@ -6,7 +6,7 @@ namespace StrykerDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Let's create some mutant!");
+            Console.WriteLine("Let's create some mutant!!!");
         }
 
         public int add(int x, int y)
